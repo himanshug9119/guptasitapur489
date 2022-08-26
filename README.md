@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Himanshugupta489
 - 👀 I’m interested in coding
 - 🌱 I learnt C and currently learning c++ programming language
+- 🌱 I have learnt Data Structure 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my contact no. is 9918330266 , and my e mail is guptasitapur489@gmail.com 
 
