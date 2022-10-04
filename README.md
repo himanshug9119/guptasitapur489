@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Himanshugupta489
+- 👋 Hi, I’m guptasitapur489
 - 👀 I’m interested in coding
 - 🌱 I learnt C and currently learning c++ programming language
 - 🌱 I have learnt Data Structure 
