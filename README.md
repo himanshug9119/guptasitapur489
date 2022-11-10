@@ -1,7 +1,8 @@
 - 👋 Hi, I’m guptasitapur489
 - 👀 I’m interested in coding
-- 🌱 I learnt C and currently learning c++ programming language
-- 🌱 I have learnt Data Structure 
+- 🌱 I learnt C, C++ , Java(Basic) programming language
+- 🌱 I have learnt Data Structure and Algorithm
+- ✨ I have learnt Object Oriented Programing 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my contact no. is 9918330266 , and my e mail is guptasitapur489@gmail.com 
 
